@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background-color: pink;
+}
+
+.container {
+    text-align: center;
+    background-color: white;
+	padding: 10px 80px 30px 80px;
+    border-radius: 48px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
