@@ -13,4 +13,12 @@ document.addEventListener('DOMContentLoaded', () => {
         updateDisplay();
     });
 
+    decrementButton.addEventListener('click', () => {
+        if (count > 0) {
+            count--;
+            updateDisplay();
+        }
+    });
+
+    
 })
