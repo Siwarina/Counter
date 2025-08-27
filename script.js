@@ -20,5 +20,9 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    
+    resetButton.addEventListener('click', () => {
+        count = 0;
+        updateDisplay();
+    });
+      updateDisplay();
 })
