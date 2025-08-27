@@ -6,7 +6,6 @@ body {
     height: 80vh;
     background-color: pink;
 }
-
 .container {
     text-align: center;
     background-color: white;
@@ -17,12 +16,11 @@ body {
 h1{
 	font-size: 42px;
     margin: 20px 0;
-    border: ;
 }
 .count {
     font-size: 38px;
     margin: 20px 0;
-	  box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
 }
 button {
     padding: 10px 20px;
